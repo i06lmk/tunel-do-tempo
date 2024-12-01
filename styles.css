@@ -13,7 +13,7 @@ body {
   }
   
   header {
-    background-color: #1E90FF;
+    background-color: #4169E1;
     color: white;
     padding: 10px;
     text-align: center;
@@ -102,7 +102,7 @@ body {
   }
   
   .flip-card-front {
-    background-color: #1E90FF;
+    background-color: #4169E1;
     color: #6495ED;
   }
   
