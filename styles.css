@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ebf3e7;
+    background-color: #F0F8FF;
     box-sizing: border-box;
   }
   
@@ -13,7 +13,7 @@ body {
   }
   
   header {
-    background-color: #28a745;
+    background-color: #1E90FF;
     color: white;
     padding: 10px;
     text-align: center;
@@ -25,7 +25,7 @@ body {
     padding: 0;
     display: flex;
     justify-content: center;
-    background-color:	#90EE90;
+    background-color:	#6495ED;
   }
   
   nav ul li {
@@ -63,7 +63,7 @@ body {
   }
   
   footer {
-    background-color: #90EE90;
+    background-color:	#6495ED;
     color: white;
     text-align: center;
     padding: 10px;
@@ -102,12 +102,12 @@ body {
   }
   
   .flip-card-front {
-    background-color: #28a745;
-    color: #90EE90;
+    background-color: #1E90FF;
+    color: #6495ED;
   }
   
   .flip-card-back {
-    background-color: #90EE90;
+    background-color: #6495ED;
     color: black;
     transform: rotateY(180deg);
     justify-content: center;
