@@ -112,3 +112,12 @@ body {
     transform: rotateY(180deg);
     justify-content: center;
   }
+
+  .direito-inferior{ 
+    position:absolute;
+    background-image:url(pngtree-line-drawing-flower-png-image_5650486.jpg);
+    float:right;
+    width:262px;
+    height:261px; 
+    bottom:0;
+    }
